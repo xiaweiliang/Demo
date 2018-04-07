@@ -8,6 +8,7 @@ public class Demo {
             System.out.println(i.hashCode());
         }
     }
+    //
     public int getNum(int i) {
         if (i == 1 || i == 2) {
             return 1;
