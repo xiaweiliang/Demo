@@ -6,6 +6,7 @@ public class FullArray {
             for (int i = 0; i <= end; i++){
                 System.out.print(list[i]);
             }
+            //
             System.out.println();
         } else {
             for (int i = start; i <= end; i++) {
